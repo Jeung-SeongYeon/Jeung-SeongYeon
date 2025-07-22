@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm SeongYeon Jeung</h1>
 <p align="center">
-  💻 AI & Backend Engineer | 🧠 LLM Application Specialist  
+  💻 AI & Backend Engineer | 🧰 LLM Application Specialist  
   <br />
   🚀 Building AI agents, smart chatbots, and workflow automation tools  
   <br /><br />
@@ -8,19 +8,19 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ran22314" alt="Solved.ac Profile" width="35%"/>
   </a>
   <a href="#" target="_blank">
-      <img src="https://raw.githubusercontent.com/Jeung-SeongYeon/programmers-badge/master/static/result.svg" width="35%"/>
+      <img src="https://raw.githubusercontent.com/Jeung-SeongYeon/programmers-badge/e082930a62c80c603155dac9b026f0d15004993c/static/result.svg" width="35%"/>
   </a>
 </p>
 
 ---
 
-## 🧠 About Me
-- 👨‍💻 I'm an AI & Backend engineer focusing on **LLM-driven agents** and **automation systems**.
-- 🛠️ I develop intelligent chatbots and productivity tools powered by LLMs.
-- ⚙️ My main language is **Python**, and I’m comfortable with **Java** as a secondary language.
-- 🌐 I handle front-end logic with basic **vanilla JavaScript** when needed.
-- 🧪 Favorite frameworks: **FastAPI**, **Spring Boot**, **pydantic_ai**, **LangGraph**
-- 🗄️ Databases: **MongoDB**, **MySQL**
+## 💡 About Me
+- 👨‍💻 I'm an AI & Backend engineer passionate about building **intelligent systems** and **automation tools**.
+- 🤖 I build AI-driven tools and backend applications to solve real-world problems through automation and intelligent reasoning.
+- ⚙️ My main language is **Python**, and I’m also comfortable with **Java** for supporting backend tasks.
+- 🌐 I occasionally use **vanilla JavaScript** for light frontend work.
+- 🧪 Favorite frameworks & libraries: **FastAPI**, **Spring Boot**, **Pydantic AI**, **LangGraph**, **PyTorch**
+- 🗄️ Preferred databases: **MongoDB**, **MySQL**
 - 🐳 I frequently use **Docker** to containerize and deploy backend and AI services.
 
 ---
@@ -37,12 +37,13 @@
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" />
 </p>
 
-### 🧠 LLM & AI Frameworks
+### 🔧 LLM & AI Frameworks
 <p>
-  <img src="https://img.shields.io/badge/pydantic_ai-181717?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic_AI-E92063?style=flat&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" />
 </p>
 
 ### 🗄️ Database
@@ -62,7 +63,6 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jeung-SeongYeon&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeung-SeongYeon&layout=compact&theme=tokyonight" height="180" />
 </p>
 
 ---
