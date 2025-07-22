@@ -5,10 +5,10 @@
   🚀 Building AI agents, smart chatbots, and workflow automation tools  
   <br /><br />
   <a href="https://solved.ac/ran22314" target="_blank">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ran22314" alt="Solved.ac Profile" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ran22314" alt="Solved.ac Profile" width="35%"/>
   </a>
   <a href="#" target="_blank">
-      <img src="https://raw.githubusercontent.com/Jeung-SeongYeon/programmers-badge/master/static/result.svg" width="40%"/>
+      <img src="https://raw.githubusercontent.com/Jeung-SeongYeon/programmers-badge/master/static/result.svg" width="35%"/>
   </a>
 </p>
 
