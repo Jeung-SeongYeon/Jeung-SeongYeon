@@ -65,7 +65,7 @@
 ---
 
 ## 📫 Let's Connect
-- 📧 E-mail: **ran22314@naver.com**
+- 📧 E-mail: **godricj1@gmail.com**
 
 ---
 
