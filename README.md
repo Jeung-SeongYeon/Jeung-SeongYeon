@@ -60,13 +60,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeung-SeongYeon&show_icons=true&theme=tokyonight" height="180" />
-</p>
-
----
-
 ## 📫 Let's Connect
 - 📧 E-mail: **godricj1@gmail.com**
 
