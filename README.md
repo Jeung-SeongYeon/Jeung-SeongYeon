@@ -51,6 +51,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=Neo4j&logoColor=white" />
 </p>
 
 ### 🌐 Frontend (Basic)
