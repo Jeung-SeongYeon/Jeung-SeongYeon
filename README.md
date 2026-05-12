@@ -64,7 +64,7 @@
 
 ## 📫 Let's Connect
 - 📧 E-mail: **godricj1@gmail.com**
-- 📄 Resume: <a href="jeung-seongyeon.github.io/resume/">Resume</a>
+- 📄 Resume: <a href="https://jeung-seongyeon.github.io/resume/">Resume</a>
 
 ---
 
