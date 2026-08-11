@@ -4,12 +4,10 @@
   <br />
   🚀 Building AI agents, smart chatbots, and workflow automation tools  
   <br /><br />
-  <a href="https://solved.ac/ran22314" target="_blank">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ran22314" alt="Solved.ac Profile" width="35%"/>
-  </a>
-  <a href="#" target="_blank">
-      <img src="https://raw.githubusercontent.com/Jeung-SeongYeon/programmers-badge/df591500cadf1d4776a0b33a00138de550c24e9f/static/result.svg" width="35%"/>
-  </a>
+  <picture data-importer="pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+</picture>
 </p>
 
 ---
