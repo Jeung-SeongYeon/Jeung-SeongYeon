@@ -4,10 +4,6 @@
   <br />
   🚀 Building AI agents, smart chatbots, and workflow automation tools  
   <br /><br />
-  <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.github.com/Jeung-SeongYeon/Jeung-SeongYeon/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
-</picture>
 </p>
 
 ---
